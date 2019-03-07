@@ -1,56 +1,59 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
-url: "http://reconhub.github.io"
+url: "https://andricioaeigroup.github.io/"
 baseurl: ""
 
-title: R Epidemics Consortium
-description: We are a group of international experts in infectious disease modelling, Public Health, and software development who collaborate to create the next generation of analysis tools for disease outbreak response using the R software
+title: https://andricioaeigroup.github.io/
+#description: We are a group of international experts in infectious disease modelling, Public Health, and software development who collaborate to create the next generation of analysis tools for disease outbreak response using the R software
 
 # List of links in the navigation bar
 navbar-links:
-  About RECON:
-    - What we do: ""
-    - Join us: "join"
-    - Contact: "contact"
-  News: "blog"
-  People: "people"
-  Projects: "projects"
-  Resources: "resources"
-  Events: "events"
-  Forum: "forum"
+  Research Topics: "research"
+  Group: "group"
+  Publications: "publications"
+  #About RECON:
+  #  - What we do: ""
+  #  - Join us: "join"
+  #  - Contact: "contact"
+  #News: "blog"
+  #People: "people"
+  #Projects: "projects"
+  #Resources: "resources"
+  #Events: "events"
+  #Forum: "forum"
 
 # Change all these values or delete the ones you don't want (these appear in the footer).
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: "RECON - R Epidemics Consortium"
-  email: "thibautjombart@gmail.com"
-  github: reconhub/reconhub.github.io
-  facebook: yourname  # eg. daattali
-  twitter: yourname   # eg. daattali
+  name: "Andricioaei Group"
+  email: "andricio@uci.edu"
+  #github: reconhub/reconhub.github.io
+  #facebook: yourname  # eg. daattali
+  #twitter: yourname   # eg. daattali
 
 # Select which links to show in the footer
 footer-links-active:
-  github: true
+  #github: true
   email: true
-  rss: false
-  facebook: false
-  twitter: false
+  #rss: false
+  #facebook: false
+  #twitter: false
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  google: false
-  linkedin: true
+  #twitter: true
+  #facebook: true
+  #google: false
+  #linkedin: true
   
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 disqus: "reconhub-github-io"
 
 # Google Analytics ID
-google_analytics: "UA-83713279-1"
+#google_analytics: "UA-83713279-1"
 
 # Output options (more information on Jekyll's site)
-timezone: "Europe/London"
+#timezone: "Europe/London"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
