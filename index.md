@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Topics
+title: Andricioaei Group
 ---
 
 <img src="/img/3mgp.png" title="RECON logo" alt="RECON logo" />
