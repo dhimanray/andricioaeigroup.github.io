@@ -13,8 +13,9 @@ title: Group Members
 | col 1 is               |  left-aligned | 
 | col 2 is               |    centered   |   
 | col 3 is               | right-aligned | 
-| Dihman Ray             | right-aligned | 
-| <img src="/img/IMG_0125_cropped.JPG"/>                       |
+| Dihman Ray              
+ email:dray1@uci.edu
+ <img src="/img/IMG_0125_cropped.JPG"/>| Research Interest: Enhanced sampling method development, Simulation of nucleic acids|
 
 * Anupam Chatterjee
 * James McSally 
