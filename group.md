@@ -5,14 +5,14 @@ title: Group Members
 ### Principal Investigator:
 [Ioan Andricioaei](https://www.chem.uci.edu/people/ioan-andricioaei)
 
-### Graduate Students: 
+ 
 
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| ### Graduate Students: |      Are      | 
+|------------------------|:-------------:|
+| col 1 is               |  left-aligned | 
+| col 2 is               |    centered   |   
+| col 3 is               | right-aligned | 
 
 * Anupam Chatterjee
 * James McSally 
