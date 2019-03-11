@@ -6,6 +6,8 @@ title: Group Members
 [Ioan Andricioaei](https://www.chem.uci.edu/people/ioan-andricioaei)
 
 ### Graduate Students: 
+
+
 | Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|
 | col 1 is |  left-aligned | $1600 |
