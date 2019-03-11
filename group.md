@@ -92,6 +92,7 @@ html {
       </div>
     </div>
   </div>
+  
   <div class="column">
     <div class="card">
       <img src="/w3images/team3.jpg" alt="John" style="width:100%">
@@ -106,6 +107,19 @@ html {
   </div>
 </div>
 
+<div class="column">
+    <div class="card">
+      <img src="/w3images/team3.jpg" alt="John" style="width:100%">
+      <div class="container">
+        <h2>Shithead</h2>
+        <p class="title">Designer</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+</div>
 </body>
 </html>
 
