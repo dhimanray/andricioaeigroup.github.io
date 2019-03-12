@@ -111,7 +111,7 @@ html {
     <div class="card">
       <img src="/w3images/team3.jpg" alt="John" style="width:100%">
       <div class="container">
-        <h2>Shithead</h2>
+        <h2>Moises Romero</h2>
         <p class="title">Designer</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
         <p>example@example.com</p>
