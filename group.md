@@ -18,7 +18,7 @@ html {
   width: 33.3%;
   margin-bottom: 16px;
   padding: 0 8px;
-  overflow: auto;
+  overflow: visible;
   overflow-wrap: normal;
 }
 
@@ -26,7 +26,7 @@ html {
   .column {
     width: 100%;
     display: block;
-    overflow: auto;
+    overflow: visible;
     overflow-wrap: normal;
   }
 }
@@ -77,12 +77,12 @@ html {
   <div class="column">
     <div class="card">
       <img src="/w3images/team1.jpg" alt="Jane" style="width:100%">
-      <div class="container" style="width:100%">>
+      <div class="container" style="width:100%">
         <h2>Jane Doe</h2>
         <p class="title">CEO & Founder</p>
         <p>Research Interest:</p>
-          <p>Enhanced sampling method development <br>Simulation of nucleic acids</p>
-        <p>example@example.com.com.com.com</p>
+          <p>Enhanced sampling method development, Simulation of nucleic acids</p>
+        <p>example@example.com</p>
         <!---<p><button class="button">Contact</button></p>--->
       </div>
     </div>
