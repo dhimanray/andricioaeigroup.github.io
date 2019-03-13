@@ -91,7 +91,7 @@ html {
   <div class="column">
     <div class="card">
       <img src="/w3images/team2.jpg" alt="Mike" style="width:100%">
-      <div class="container">
+      <div class="container" style="width:100%">
         <h2>Mike Ross</h2>
         <p class="title">Art Director</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
@@ -103,7 +103,7 @@ html {
   <div class="column">
     <div class="card">
       <img src="/w3images/team3.jpg" alt="John" style="width:100%">
-      <div class="container">
+      <div class="container" style="width:100%">
         <h2>John Doe</h2>
         <p class="title">Designer</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
