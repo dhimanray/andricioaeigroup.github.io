@@ -109,7 +109,7 @@ html {
   </div>
   <div class="column">
     <div class="card">
-      <img src="/img/Moises.isesjpg" alt="Moises" style="width:100%">
+      <img src="/img/Moises.jpg" alt="Moises" style="width:100%">
       <div class="container" style="width:100%">
         <h2>Moises Romero</h2>
         <p>Research Interest: Enhanced sampling method development, Simulation of nucleic acids</p>
@@ -119,7 +119,7 @@ html {
   </div>
   <div class="column">
     <div class="card">
-      <img src="/img/Dhiman.jpg" alt="Dhiman" style="width:100%">
+      <img src="/img/Dhiman.JPG" alt="Dhiman" style="width:100%">
       <div class="container" style="width:100%">
         <h2>Dhiman Ray</h2>
         <p>Research Interest: Enhanced sampling method development, Simulation of nucleic acids</p>
