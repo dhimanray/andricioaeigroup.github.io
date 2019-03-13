@@ -69,45 +69,64 @@ html {
 </head>
 <body>
 
-<h2>Responsive "Meet The Team" Section</h2>
-<p>Resize the browser window to see the effect.</p>
-<br>
+<h2>principal investigator</h2>
 
 <div class="row">
   <div class="column">
     <div class="card">
       <img src="/w3images/team1.jpg" alt="Jane" style="width:100%">
       <div class="container" style="width:100%">
-        <h2>Jane Doe</h2>
-        <p class="title">CEO & Founder</p>
+        <h2>Ioan Andricioaei</h2>
+        <p>andricio@uci.edu</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<h2>Graduate Students</h2>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="/w3images/Anupam.jpg" alt="Anupam" style="width:100%">
+      <div class="container" style="width:100%">
+        <h2>Anupam Chatterjee</h2>
         <p>Research Interest: Enhanced sampling method development, Simulation of nucleic acids</p>
-        <p>example@example.com</p>
-        <!---<p><button class="button">Contact</button></p>--->
+        <p>anupamc@uci.edu</p>
       </div>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-      <img src="/w3images/team2.jpg" alt="Mike" style="width:100%">
+      <img src="/w3images/Jim.jpg" alt="Jim" style="width:100%">
       <div class="container" style="width:100%">
-        <h2>Mike Ross</h2>
+        <h2>James McSally</h2>
         <p class="title">Art Director</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <!---<p><button class="button">Contact</button></p>--->
+        <p>Research Interests: Nucleotide conformational changes of RNA and DNA and the reweighting of Langevin trajectories. </p>
+        <p>jmcsally@uci.edu</p>
       </div>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img src="/w3images/team3.jpg" alt="John" style="width:100%">
+      <img src="/w3images/Mo.isesjpg" alt="Moises" style="width:100%">
       <div class="container" style="width:100%">
-        <h2>John Doe</h2>
+        <h2>Moises Romero</h2>
         <p class="title">Designer</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <!---<p><button class="button">Contact</button></p>--->
+        <p>esearch Interest: Enhanced sampling method development, Simulation of nucleic acids</p>
+        <p>dray1@uci.edu</p>
+      </div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img src="/w3images/Dhiman.jpg" alt="Dhiman" style="width:100%">
+      <div class="container" style="width:100%">
+        <h2>JDhiman Ray</h2>
+        <p class="title">Designer</p>
+        <p>esearch Interest: Enhanced sampling method development, Simulation of nucleic acids</p>
+        <p>dray1@uci.edu</p>
       </div>
     </div>
   </div>
