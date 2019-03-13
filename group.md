@@ -18,7 +18,7 @@ html {
   width: 33.3%;
   margin-bottom: 16px;
   padding: 0 8px;
-  text-overflow: inherent;
+  overflow: auto;
   overflow-wrap: normal;
 }
 
@@ -26,7 +26,7 @@ html {
   .column {
     width: 100%;
     display: block;
-    text-overflow: inherent;
+    overflow: auto;
     overflow-wrap: normal;
   }
 }
