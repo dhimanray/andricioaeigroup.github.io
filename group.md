@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -62,7 +61,7 @@ html {
 </head>
 <body>
 
-<h2>Responsive "Group Memebers" Section</h2>
+<h2>Graduate Students</h2>
 <p>Resize the browser window to see the effect.</p>
 <br>
 
@@ -74,8 +73,7 @@ html {
         <h2>Dihman Ray</h2>
         <p class="title">Joined 2019</p>
         <p>Research Interest: Enhanced sampling method development, Simulation of nucleic acids</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
+        <p>dray3@uci.edu</p>
       </div>
     </div>
   </div>
