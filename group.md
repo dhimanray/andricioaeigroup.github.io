@@ -75,7 +75,7 @@ html {
   <div class="column">
     <div class="card">
       <img src="/img/Ioan.jpg" alt="Jim" style="width:100%">
-      <div class="container" style="width:100%">
+      <div class="container" style="width:150%">
         <h2>Ioan Andricioaei</h2>
         <p>andricio@uci.edu</p>
       </div>
