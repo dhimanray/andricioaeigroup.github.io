@@ -22,7 +22,7 @@ html {
   overflow-wrap: normal;
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 650px max-height: 650px) {
   .column {
     width: 100%;
     display: block;
@@ -72,9 +72,9 @@ html {
 <h2>Principal Investigator</h2>
 
 <div class="row">
-  <div class="column">
+  <div class="column" style="width:150%">
     <div class="card">
-      <img src="/img/Ioan.jpg" alt="Jim" style="width:100%">
+      <img src="/img/Ioan.jpg" alt="Jim" style="width:150%">
       <div class="container" style="width:150%">
         <h2>Ioan Andricioaei</h2>
         <p>andricio@uci.edu</p>
@@ -91,7 +91,7 @@ html {
       <img src="/img/Anupam.jpg" alt="Anupam" style="width:100%">
       <div class="container" style="width:100%">
         <h2>Anupam Chatterjee</h2>
-        <p>Research Interest: Enhanced sampling method development, Simulation of nucleic acids</p>
+        <p>Research Interest: MD simulations of viral contractile tail filaments, theoretical studies of nucleic acid elasticity and unzipping.</p>
         <p>anupamc@uci.edu</p>
       </div>
     </div>
@@ -113,7 +113,7 @@ html {
       <div class="container" style="width:100%">
         <h2>Moises Romero</h2>
         <p>Research Interest: Enhanced sampling method development, Simulation of nucleic acids</p>
-        <p>dray1@uci.edu</p>
+        <p>moiseser@uci.edu</p>
       </div>
     </div>
   </div>
