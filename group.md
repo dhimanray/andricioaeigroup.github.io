@@ -74,7 +74,7 @@ html {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="/w3images/team1.jpg" alt="Jane" style="width:100%">
+      <img src="/img/Ioan.jpg" alt="Jane" style="width:100%">
       <div class="container" style="width:100%">
         <h2>Ioan Andricioaei</h2>
         <p>andricio@uci.edu</p>
@@ -88,7 +88,7 @@ html {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="/w3images/Anupam.jpg" alt="Anupam" style="width:100%">
+      <img src="/img/Anupam.jpg" alt="Anupam" style="width:100%">
       <div class="container" style="width:100%">
         <h2>Anupam Chatterjee</h2>
         <p>Research Interest: Enhanced sampling method development, Simulation of nucleic acids</p>
@@ -99,7 +99,7 @@ html {
 
   <div class="column">
     <div class="card">
-      <img src="/w3images/Jim.jpg" alt="Jim" style="width:100%">
+      <img src="/img/Jim.jpg" alt="Jim" style="width:100%">
       <div class="container" style="width:100%">
         <h2>James McSally</h2>
         <p>Research Interests: Nucleotide conformational changes of RNA and DNA and the reweighting of Langevin trajectories. </p>
@@ -109,7 +109,7 @@ html {
   </div>
   <div class="column">
     <div class="card">
-      <img src="/w3images/Mo.isesjpg" alt="Moises" style="width:100%">
+      <img src="/img/Moises.isesjpg" alt="Moises" style="width:100%">
       <div class="container" style="width:100%">
         <h2>Moises Romero</h2>
         <p>esearch Interest: Enhanced sampling method development, Simulation of nucleic acids</p>
@@ -119,7 +119,7 @@ html {
   </div>
   <div class="column">
     <div class="card">
-      <img src="/w3images/Dhiman.jpg" alt="Dhiman" style="width:100%">
+      <img src="/img/Dhiman.jpg" alt="Dhiman" style="width:100%">
       <div class="container" style="width:100%">
         <h2>JDhiman Ray</h2>
         <p>esearch Interest: Enhanced sampling method development, Simulation of nucleic acids</p>
