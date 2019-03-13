@@ -72,7 +72,7 @@ html {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="/img/Ioan.jpg" alt="Jim" style="width:100%" height="650" width="650">
+      <img src="/img/Ioan.jpg" alt="Jim" style="width:100%" height="500" width="500">
       <div class="container" style="width:100%">
         <h2>Ioan Andricioaei</h2>
         <p>andricio@uci.edu</p>
@@ -86,7 +86,7 @@ html {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="/img/Anupam.jpg" alt="Anupam" style="width:100%" height="650" width="650">
+      <img src="/img/Anupam.jpg" alt="Anupam" style="width:100%" height="500" width="500">
       <div class="container" style="width:100%">
         <h2>Anupam Chatterjee</h2>
         <p>Research Interest: MD simulations of viral contractile tail filaments, theoretical studies of nucleic acid elasticity and unzipping.</p>
@@ -97,7 +97,7 @@ html {
 
   <div class="column">
     <div class="card">
-      <img src="/img/Jim.jpg" alt="Jim" style="width:100%" height="650" width="650">
+      <img src="/img/Jim.jpg" alt="Jim" style="width:100%" height="500" width="500">
       <div class="container" style="width:100%">
         <h2>James McSally</h2>
         <p>Research Interests: Nucleotide conformational changes of RNA and DNA and the reweighting of Langevin trajectories. </p>
@@ -109,7 +109,7 @@ html {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="/img/Moises.jpg" alt="Moises" style="width:100%" height="650" width="650">
+      <img src="/img/Moises.jpg" alt="Moises" style="width:100%" height="500" width="500">
       <div class="container" style="width:100%">
         <h2>Moises Romero</h2>
         <p>Research Interest: Enhanced sampling method development, Simulation of nucleic acids</p>
@@ -119,7 +119,7 @@ html {
   </div>
   <div class="column">
     <div class="card">
-      <img src="/img/Dhiman.JPG" alt="Dhiman" style="width:100%" height="650" width="650">
+      <img src="/img/Dhiman.JPG" alt="Dhiman" style="width:100%" height="500" width="500">
       <div class="container" style="width:100%">
         <h2>Dhiman Ray</h2>
         <p>Research Interest: Enhanced sampling method development, Simulation of nucleic acids</p>
