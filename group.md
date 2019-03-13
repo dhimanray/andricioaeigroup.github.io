@@ -69,7 +69,7 @@ html {
 </head>
 <body>
 
-<h2>principal investigator</h2>
+<h2>Principal Investigator</h2>
 
 <div class="row">
   <div class="column">
