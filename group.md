@@ -18,16 +18,16 @@ html {
   width: 33.3%;
   margin-bottom: 16px;
   padding: 0 8px;
-  text-overflow: clip;
-  overflow: hidden;
+  <!--text-overflow: clip;-->
+  overflow-wrap: normal;
 }
 
 @media screen and (max-width: 650px) {
   .column {
     width: 100%;
     display: block;
-    text-overflow: clip;
-    overflow: hidden;
+    <!--text-overflow: clip;-->
+    overflow-wrap: normal;
   }
 }
 
