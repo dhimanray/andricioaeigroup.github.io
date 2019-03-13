@@ -112,7 +112,8 @@ html {
       <div class="container" style="width:100%">
       <img src="/img/Moises.jpg" alt="Moises"  height="300" width="300">
         <h3>Moises Romero</h3>
-        <p>Research Interest: MD Simulations of contractile tails and microscopic friction.  </p>
+        <p>Research Interest: MD Simulations of contractile tails and microscopic friction. 
+        Enhanced sampling via directionally negative friction Langevin equation.</p>
         <p>moiseser@uci.edu</p>
       </div>
     </div>
