@@ -80,7 +80,8 @@ html {
       <div class="container">
         <h2>Jane Doe</h2>
         <p class="title">CEO & Founder</p>
-        <p>Research Interest: Enhanced sampling method development, Simulation of nucleic acids</p>
+        <p>Research Interest:</p>
+          <p>Enhanced sampling method development, Simulation of nucleic acids</p>
         <p>example@example.com.com.com.com</p>
         <!---<p><button class="button">Contact</button></p>--->
       </div>
