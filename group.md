@@ -70,7 +70,7 @@ html {
 <h2>Principal Investigator</h2>
 
 <div class="row">
-  <div class="column" style="width:100%">
+  <div class="column">
     <div class="card">
       <img src="/img/Ioan.jpg" alt="Jim" style="width:100%">
       <div class="container" style="width:100%">
