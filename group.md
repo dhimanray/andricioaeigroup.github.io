@@ -24,6 +24,8 @@ html {
   .column {
     width: 100%;
     display: block;
+    text-overflow: ellipsis;
+    overflow: hidden;
   }
 }
 
