@@ -72,6 +72,7 @@ html {
 <div class="row">
   <div class="column">
     <div class="card">
+       <div class="container" style="width:100%">
       <img src="/img/Ioan.jpg" alt="Jim"  height="300" width="300">
         <p>andricio@uci.edu</p>
       </div>
