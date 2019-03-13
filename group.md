@@ -73,7 +73,7 @@ html {
 
 <div class="row">
   <div class="column">
-    <div class="card">
+    //<div class="card">
       <img src="/w3images/team1.jpg" alt="Jane" style="width:100%">
       <div class="container">
         <h2>Jane Doe</h2>
