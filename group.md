@@ -73,7 +73,7 @@ html {
   <div class="column">
     <div class="card">
        <div class="container" style="width:100%">
-      <img src="/img/Ioan.jpg" alt="Jim"  height="300" width="300">
+        <img src="/img/Ioan.jpg" alt="Jim"  height="300" width="300">
         <h3>Ioan Andricioaei</h3>
         <p>andricio@uci.edu</p>
       </div>
@@ -86,8 +86,8 @@ html {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="/img/Anupam.jpg" alt="Anupam"  height="300" width="300">
       <div class="container" style="width:100%">
+      <img src="/img/Anupam.jpg" alt="Anupam"  height="300" width="300">
         <h3>Anupam Chatterjee</h3>
         <p>Research Interest: MD simulations of viral contractile tail filaments, theoretical studies of nucleic acid elasticity and unzipping.</p>
         <p>anupamc@uci.edu</p>
@@ -97,8 +97,8 @@ html {
 
   <div class="column">
     <div class="card">
-      <img src="/img/Jim.jpg" alt="Jim"  height="300" width="300">
       <div class="container" style="width:100%">
+      <img src="/img/Jim.jpg" alt="Jim"  height="300" width="300">
         <h3>James McSally</h3>
         <p>Research Interests: Nucleotide conformational changes of RNA and DNA and the reweighting of Langevin trajectories. </p>
         <p>jmcsally@uci.edu</p>
