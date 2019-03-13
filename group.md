@@ -137,13 +137,13 @@ html {
   <div class="column">
     <div class="card">
        <div class="container" style="width:100%">
-        <p>Jason Deckman
-          Gavin Bascom
-Emel Ficici
-Gianmarc Johns
-Ahmet Mentes
-Nick Preketes
-Mahua Roy
+        <p>Jason Deckman <br>
+          Gavin Bascom <br>
+Emel Ficici <br>
+Gianmarc Johns <br>
+Ahmet Mentes <br>
+Nick Preketes <br>
+Mahua Roy <br>
 Maryna Taranova</p>
       </div>
     </div>
