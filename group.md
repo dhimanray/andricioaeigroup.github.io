@@ -102,7 +102,6 @@ html {
       <img src="/w3images/Jim.jpg" alt="Jim" style="width:100%">
       <div class="container" style="width:100%">
         <h2>James McSally</h2>
-        <p class="title">Art Director</p>
         <p>Research Interests: Nucleotide conformational changes of RNA and DNA and the reweighting of Langevin trajectories. </p>
         <p>jmcsally@uci.edu</p>
       </div>
@@ -113,7 +112,6 @@ html {
       <img src="/w3images/Mo.isesjpg" alt="Moises" style="width:100%">
       <div class="container" style="width:100%">
         <h2>Moises Romero</h2>
-        <p class="title">Designer</p>
         <p>esearch Interest: Enhanced sampling method development, Simulation of nucleic acids</p>
         <p>dray1@uci.edu</p>
       </div>
@@ -124,7 +122,6 @@ html {
       <img src="/w3images/Dhiman.jpg" alt="Dhiman" style="width:100%">
       <div class="container" style="width:100%">
         <h2>JDhiman Ray</h2>
-        <p class="title">Designer</p>
         <p>esearch Interest: Enhanced sampling method development, Simulation of nucleic acids</p>
         <p>dray1@uci.edu</p>
       </div>
