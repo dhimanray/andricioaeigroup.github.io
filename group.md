@@ -112,7 +112,7 @@ html {
       <div class="container" style="width:100%">
       <img src="/img/Moises.jpg" alt="Moises"  height="300" width="300">
         <h3>Moises Romero</h3>
-        <p>Research Interest: Enhanced sampling method development, Simulation of nucleic acids</p>
+        <p>Research Interest: MD Simulations of contractile tails and nanotribology. </p>
         <p>moiseser@uci.edu</p>
       </div>
     </div>
@@ -122,7 +122,7 @@ html {
       <div class="container" style="width:100%">
       <img src="/img/Dhiman.JPG" alt="Dhiman"  height="300" width="300">
         <h3>Dhiman Ray</h3>
-        <p>Research Interest: Enhanced sampling method development, Simulation of nucleic acids</p>
+        <p>Research Interest: Enhanced sampling method development, Simulation of nucleic acids.</p>
         <p>dray1@uci.edu</p>
       </div>
     </div>
