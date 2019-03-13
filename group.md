@@ -1,6 +1,4 @@
-
----
-<!DOCTYPE html>
+<!---DOCTYPE html--->
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -15,7 +13,7 @@ html {
 
 .column {
   float: left;
-  width: 25%;
+  width: 50%;
   margin-bottom: 16px;
   padding: 0 8px;
   overflow: visible;
@@ -72,10 +70,10 @@ html {
 <h2>Principal Investigator</h2>
 
 <div class="row">
-  <div class="column" style="width:150%">
+  <div class="column" style="width:100%">
     <div class="card">
       <img src="/img/Ioan.jpg" alt="Jim" style="width:100%">
-      <div class="container" style="width:150%">
+      <div class="container" style="width:100%">
         <h2>Ioan Andricioaei</h2>
         <p>andricio@uci.edu</p>
       </div>
@@ -107,6 +105,8 @@ html {
       </div>
     </div>
   </div>
+</div>
+<div class="row">
   <div class="column">
     <div class="card">
       <img src="/img/Moises.jpg" alt="Moises" style="width:100%">
