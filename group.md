@@ -109,8 +109,8 @@ html {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="/img/Moises.jpg" alt="Moises"  height="300" width="300">
       <div class="container" style="width:100%">
+      <img src="/img/Moises.jpg" alt="Moises"  height="300" width="300">
         <h3>Moises Romero</h3>
         <p>Research Interest: Enhanced sampling method development, Simulation of nucleic acids</p>
         <p>moiseser@uci.edu</p>
@@ -119,8 +119,8 @@ html {
   </div>
   <div class="column">
     <div class="card">
-      <img src="/img/Dhiman.JPG" alt="Dhiman"  height="300" width="300">
       <div class="container" style="width:100%">
+      <img src="/img/Dhiman.JPG" alt="Dhiman"  height="300" width="300">
         <h3>Dhiman Ray</h3>
         <p>Research Interest: Enhanced sampling method development, Simulation of nucleic acids</p>
         <p>dray1@uci.edu</p>
