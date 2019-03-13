@@ -144,7 +144,9 @@ Gianmarc Grazioli <br>
 Ahmet Mentes <br>
 Nick Preketes <br>
 Mahua Roy <br>
-Maryna Taranova</p>
+Maryna Taranova<br>
+Aaron Frank <br>
+Jeff Wereszczynski</p>
       </div>
     </div>
   </div>
