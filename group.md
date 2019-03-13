@@ -18,6 +18,8 @@ html {
   width: 33.3%;
   margin-bottom: 16px;
   padding: 0 8px;
+  text-overflow: ellipsis;
+  overflow: hidden;
 }
 
 @media screen and (max-width: 650px) {
