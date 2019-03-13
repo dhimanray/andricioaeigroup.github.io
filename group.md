@@ -67,27 +67,28 @@ html {
 </head>
 <body>
 
-<h3>Principal Investigator</h3>
+<h2>Principal Investigator</h2>
 
 <div class="row">
   <div class="column">
     <div class="card">
        <div class="container" style="width:100%">
       <img src="/img/Ioan.jpg" alt="Jim"  height="300" width="300">
+        <h3>Ioan Andricioaei</h3>
         <p>andricio@uci.edu</p>
       </div>
     </div>
   </div>
 </div>
 
-<h3>Graduate Students</h3>
+<h2>Graduate Students</h2>
 
 <div class="row">
   <div class="column">
     <div class="card">
       <img src="/img/Anupam.jpg" alt="Anupam"  height="300" width="300">
       <div class="container" style="width:100%">
-        <h2>Anupam Chatterjee</h2>
+        <h3>Anupam Chatterjee</h3>
         <p>Research Interest: MD simulations of viral contractile tail filaments, theoretical studies of nucleic acid elasticity and unzipping.</p>
         <p>anupamc@uci.edu</p>
       </div>
@@ -98,7 +99,7 @@ html {
     <div class="card">
       <img src="/img/Jim.jpg" alt="Jim"  height="300" width="300">
       <div class="container" style="width:100%">
-        <h2>James McSally</h2>
+        <h3>James McSally</h3>
         <p>Research Interests: Nucleotide conformational changes of RNA and DNA and the reweighting of Langevin trajectories. </p>
         <p>jmcsally@uci.edu</p>
       </div>
@@ -110,7 +111,7 @@ html {
     <div class="card">
       <img src="/img/Moises.jpg" alt="Moises"  height="300" width="300">
       <div class="container" style="width:100%">
-        <h2>Moises Romero</h2>
+        <h3>Moises Romero</h3>
         <p>Research Interest: Enhanced sampling method development, Simulation of nucleic acids</p>
         <p>moiseser@uci.edu</p>
       </div>
@@ -120,7 +121,7 @@ html {
     <div class="card">
       <img src="/img/Dhiman.JPG" alt="Dhiman"  height="300" width="300">
       <div class="container" style="width:100%">
-        <h2>Dhiman Ray</h2>
+        <h3>Dhiman Ray</h3>
         <p>Research Interest: Enhanced sampling method development, Simulation of nucleic acids</p>
         <p>dray1@uci.edu</p>
       </div>
