@@ -88,7 +88,7 @@ html {
   <div class="column">
     <div class="card">
       <div class="container" style="width:100%">
-      <img src="/img/Anupam.jpg" alt="Anupam"  height="300" width="300">
+      <img src="/img/Anupam.png" alt="Anupam"  height="300" width="300">
         <h3>Anupam Chatterjee</h3>
         <p>Research Interest: MD simulations of viral contractile tail filaments, theoretical studies of nucleic acid elasticity and unzipping.</p>
         <p>anupamc@uci.edu</p>
@@ -130,6 +130,26 @@ html {
     </div>
   </div>
 </div>
+
+<h2>Former Members</h2>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+       <div class="container" style="width:100%">
+        <p>Jason Deckman
+          Gavin Bascom
+Emel Ficici
+Gianmarc Johns
+Ahmet Mentes
+Nick Preketes
+Mahua Roy
+Maryna Taranova</p>
+      </div>
+    </div>
+  </div>
+</div>
+
 
 </body>
 </html>
