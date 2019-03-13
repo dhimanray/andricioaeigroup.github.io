@@ -1,10 +1,10 @@
 
 ---
-layout: group
+layout: people
 ---
 
 
-</style>
+
 </head>
 <body>
 
