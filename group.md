@@ -1,9 +1,5 @@
 
 ---
-layout: page
----
-
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -64,6 +60,7 @@ html {
 .button:hover {
   background-color: #555;
 }
+---
 </style>
 </head>
 <body>
