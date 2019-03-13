@@ -18,7 +18,7 @@ html {
   width: 33.3%;
   margin-bottom: 16px;
   padding: 0 8px;
-  text-overflow: ellipsis;
+  text-overflow: clip;
   overflow: hidden;
 }
 
@@ -26,7 +26,7 @@ html {
   .column {
     width: 100%;
     display: block;
-    text-overflow: ellipsis;
+    text-overflow: clip;
     overflow: hidden;
   }
 }
