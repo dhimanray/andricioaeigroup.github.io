@@ -130,7 +130,7 @@ html {
   </div>
 </div>
 
-<h2>Former Members</h2>
+<h2>"Recent Alumni/Alumnae</h2>
 
 <div class="row">
   <div class="column">
