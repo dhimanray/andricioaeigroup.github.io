@@ -14,7 +14,7 @@ html {
 
 .column {
   float: left;
-  width: 50%;
+  width: 60%;
   margin-bottom: 16px;
   padding: 0 8px;
   overflow: visible;
@@ -95,7 +95,8 @@ html {
       </div>
     </div>
   </div>
-
+<div>
+<div class="row">
   <div class="column">
     <div class="card">
       <div class="container" style="width:100%">
@@ -119,6 +120,8 @@ html {
       </div>
     </div>
   </div>
+<div>
+<div class="row">
   <div class="column">
     <div class="card">
       <div class="container" style="width:100%">
