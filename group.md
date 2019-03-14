@@ -14,7 +14,7 @@ html {
 
 .column {
   float: left;
-  width: 60%;
+  width: 50%;
   margin-bottom: 16px;
   padding: 0 8px;
   overflow: visible;
@@ -100,7 +100,7 @@ html {
   <div class="column">
     <div class="card">
       <div class="container" style="width:100%">
-      <img src="/img/Jim.jpg" alt="Jim" height="300" width="300">
+      <img src="/img/Jim.jpg" alt="Jim" height="440" width="300">
         <h3>James McSally</h3>
         <p>Research Interests: Nucleotide conformational changes of RNA and DNA and the reweighting of Langevin trajectories. </p>
         <p>jmcsally@uci.edu</p>
