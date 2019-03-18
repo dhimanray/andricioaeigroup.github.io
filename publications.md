@@ -45,8 +45,6 @@ A. Mentes, A.M. Florescu, E. Brunk, J. Wereszczynski, M. Joyeux and I. Andricioa
 
 ### 2014 
 
-avid Reha et al. “Molecular dynamics comparison of E. coli WrbAapoprotein and holoprotein”. Journal of molecular modeling, 20(9):2400, (2014).
-
 M. Taranova, A. Hirsh, N. Perkins and I. Andricioaei, “[Role of microscopic flexibility in tightly curved DNA](http://dx.doi.org/10.1021/jp502233u),” J. Phys. Chem. B, 118, 11028–11036 (2014). 
 
 G. Bascom, I. Andricioaei, "[Single-walled carbon nanotubes modulate the B- to A-DNA transition]( http://dx.doi.org/10.1021/jp5081274)," J. Phys. Chem. C 118, 29441-29447 (2014).
