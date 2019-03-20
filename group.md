@@ -124,7 +124,6 @@ html {
       <img src="/img/Dhiman.JPG" alt="Dhiman" style="width:50%"><!--height="300" width="300">-->
         <h3>Dhiman Ray</h3>
         <p>Research Interest: Enhanced sampling method development, Simulation of nucleic acids.</p>
-        [Google Scholar Profile](https://scholar.google.com/citations?user=ILWljWoAAAAJ&hl=en&authuser=1)
         <p>dray1@uci.edu</p>
       </div>
     </div>
