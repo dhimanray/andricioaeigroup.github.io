@@ -156,6 +156,25 @@ Jeff Wereszczynski</p>
   </div>
 </div>
 
+<h2>Group Alumni</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Name</th>
+    <th>Position in Group</th>
+    <th>Current Affiliation</th>
+  </tr>
+  <tr>
+    <td>Emel Ficici</td>
+    <td>PhD student (2010-2015)</td>
+    <td>Postdoctoral Fellow, NIH/NHLBI</td>
+  </tr>
+  <tr>
+    <td>Gianmarc Grazioli</td>
+    <td>PhD (2011-2016)</td>
+    <td>Postdoctoral Fellow, UC Irvine</td>
+  </tr>
+</table> 
 
 </body>
 </html>
