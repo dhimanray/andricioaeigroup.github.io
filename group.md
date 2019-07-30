@@ -195,6 +195,11 @@ Jeff Wereszczynski</p>
     <td>Postdoctoral Fellow, University of Pennsylvania</td>
   </tr>
   <tr>
+    <td>Maryna Taranova</td>
+    <td>PhD (2009-2014)</td>
+    <td>Principal Data Scientist/ Group Leader in <br> Bioinformatics at Roche Sequencing Solution</td>
+  </tr>
+  <tr>
     <td>Nicholas K Preketes</td>
     <td>PhD (2008-2013)<br> Jointly with Shaul Mukamel</td>
     <td>Director, Commercial Strategy & Analytics, Amgen</td>
@@ -205,9 +210,19 @@ Jeff Wereszczynski</p>
     <td>Senior Scientist at Pfizer</td>
   </tr>
   <tr>
-    <td>Maryna Taranova</td>
-    <td>PhD (2009-2014)</td>
-    <td>Principal Data Scientist/ Group Leader in <br> Bioinformatics at Roche Sequencing Solution</td>
+    <td>Aaron T. Frank</td>
+    <td>PhD (2006-2011)</td>
+    <td>Assistant Professor, University of Michigan, Ann Arbor</td>
+  </tr>
+  <tr>
+    <td>K. Maria Mills</td>
+    <td>PhD (2005-2010)<br> Jointly with Mark M. Banaszak Holl</td>
+    <td>Postdoctoral Fellow, NHLBI</td>
+  </tr>
+  <tr>
+    <td>Jeff Wereszczynski</td>
+    <td>PhD (2004-2008)</td>
+    <td>Associate Professor, Illinois Institute of Technology, Chicago</td>
   </tr>
 </table> 
 
