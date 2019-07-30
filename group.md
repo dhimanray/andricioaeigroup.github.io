@@ -125,6 +125,7 @@ html {
         <h3>Dhiman Ray</h3>
         <p>Research Interest: Enhanced sampling method development, Simulation of nucleic acids.</p>
         <p>dray1@uci.edu</p>
+        <a href="https://www.linkedin.com/in/dhiman-ray-95790baa/">Linkedin</a>
       </div>
     </div>
   </div>
