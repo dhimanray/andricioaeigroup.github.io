@@ -77,6 +77,7 @@ html {
         <img src="/img/Ioan.jpg" alt="Ioan" style="width:50%"><!--height="300" width="300">-->
         <h3>Ioan Andricioaei</h3>
         <p>andricio@uci.edu</p>
+        <a href="https://www.faculty.uci.edu/profile.cfm?faculty_id=5491">Profile</a>
       </div>
     </div>
   </div>
@@ -125,7 +126,10 @@ html {
         <h3>Dhiman Ray</h3>
         <p>Research Interest: Enhanced sampling method development, Simulation of nucleic acids.</p>
         <p>dray1@uci.edu</p>
+        <p>Integrated BS-MS, Indian Institute of Science Education and Research, Kolkata, India (2018)</p>
         <a href="https://www.linkedin.com/in/dhiman-ray-95790baa/">Linkedin</a>
+        <a href="https://scholar.google.com/citations?user=ILWljWoAAAAJ&hl=en&oi=ao">Google Scholar</a>
+        <a href="https://sites.google.com/view/dhiman/home">Personal Website</a>
       </div>
     </div>
   </div>
