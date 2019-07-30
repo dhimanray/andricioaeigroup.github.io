@@ -135,26 +135,7 @@ html {
   </div>
 </div>
 
-<h2>Recent Alumni/Alumnae</h2>
 
-<div class="row">
-  <div class="column">
-    <div class="card">
-       <div class="container" style="width:100%">
-        <p>Jason Deckman <br>
-          Gavin Bascom <br>
-Emel Ficici <br>
-Gianmarc Grazioli <br>
-Ahmet Mentes <br>
-Nick Preketes <br>
-Mahua Roy <br>
-Maryna Taranova<br>
-Aaron Frank <br>
-Jeff Wereszczynski</p>
-      </div>
-    </div>
-  </div>
-</div>
 
 <h2>Group Alumni</h2>
 
