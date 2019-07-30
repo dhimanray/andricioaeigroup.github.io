@@ -178,7 +178,7 @@ html {
   <tr>
     <td>Maryna Taranova</td>
     <td>PhD (2009-2014)</td>
-    <td>Principal Data Scientist/ Group Leader in <br> Bioinformatics at Roche Sequencing Solution</td>
+    <td>Principal Data Scientist/ Group Leader in Bioinformatics at Roche Sequencing Solution</td>
   </tr>
   <tr>
     <td>Nicholas K Preketes</td>
@@ -193,7 +193,7 @@ html {
   <tr>
     <td><a href="https://sites.google.com/site/prasanthpj/Home">Prasanth P  Jose</a></td>
     <td>Post Doc (2008-2010)</td>
-    <td>Assistant Professor of Physics <br> Indian Institute of Technology, Mandi, India</td>
+    <td>Assistant Professor of Physics, Indian Institute of Technology, Mandi, India</td>
   </tr>
   <tr>
     <td><a href="https://sites.lsa.umich.edu/frank-lab/">Aaron T. Frank</a></td>
