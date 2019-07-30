@@ -199,7 +199,16 @@ Jeff Wereszczynski</p>
     <td>PhD (2008-2013)<br> Jointly with Shaul Mukamel</td>
     <td>Director, Commercial Strategy & Analytics, Amgen</td>
   </tr>
-  
+  <tr>
+    <td>Mahua Roy</td>
+    <td>PhD (2008-2014)</td>
+    <td>Senior Scientist at Pfizer</td>
+  </tr>
+  <tr>
+    <td>Maryna Taranova</td>
+    <td>PhD (2009-2014)</td>
+    <td>Principal Data Scientist/ Group Leader in <br> Bioinformatics at Roche Sequencing Solution</td>
+  </tr>
 </table> 
 
 </body>
