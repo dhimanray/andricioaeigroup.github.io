@@ -210,9 +210,14 @@ Jeff Wereszczynski</p>
     <td>Senior Scientist at Pfizer</td>
   </tr>
   <tr>
+    <td>Prasanth P  Jose</td>
+    <td>Post Doc (2008-2010)</td>
+    <td>Assistant Professor of Physics <br> Indian Institute of Technology, Mandi, India</td>
+  </tr>
+  <tr>
     <td>Aaron T. Frank</td>
     <td>PhD (2006-2011)</td>
-    <td>Assistant Professor, University of Michigan, Ann Arbor</td>
+    <td>Assistant Professor of Chemistry, University of Michigan, Ann Arbor</td>
   </tr>
   <tr>
     <td>K. Maria Mills</td>
@@ -222,7 +227,7 @@ Jeff Wereszczynski</p>
   <tr>
     <td>Jeff Wereszczynski</td>
     <td>PhD (2004-2008)</td>
-    <td>Associate Professor, Illinois Institute of Technology, Chicago</td>
+    <td>Associate Professor of Physics, Illinois Institute of Technology, Chicago</td>
   </tr>
 </table> 
 
