@@ -127,9 +127,9 @@ html {
         <p>Research Interest: Enhanced sampling method development, Simulation of nucleic acids.</p>
         <p>dray1@uci.edu</p>
         <p>Integrated BS-MS, Indian Institute of Science Education and Research, Kolkata, India (2018)</p>
-        <a href="https://www.linkedin.com/in/dhiman-ray-95790baa/">Linkedin</a>
-        <a href="https://scholar.google.com/citations?user=ILWljWoAAAAJ&hl=en&oi=ao">Google Scholar</a>
-        <a href="https://sites.google.com/view/dhiman/home">Personal Website</a>
+        <p><a href="https://www.linkedin.com/in/dhiman-ray-95790baa/">Linkedin</a></p>
+        <p><a href="https://scholar.google.com/citations?user=ILWljWoAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
+        <p><a href="https://sites.google.com/view/dhiman/home">Personal Website</a></p>
       </div>
     </div>
   </div>
