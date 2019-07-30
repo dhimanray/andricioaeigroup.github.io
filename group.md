@@ -165,15 +165,31 @@ Jeff Wereszczynski</p>
     <th>Current Affiliation</th>
   </tr>
   <tr>
-    <td>Emel Ficici</td>
-    <td>PhD student (2010-2015)</td>
-    <td>Postdoctoral Fellow, NIH/NHLBI</td>
+    <td>James McSally</td>
+    <td>PhD (2014-2019)</td>
+    <td>Postdoctoral Fellow, University of Rochester</td>
   </tr>
   <tr>
     <td>Gianmarc Grazioli</td>
     <td>PhD (2011-2016)</td>
-    <td>Postdoctoral Fellow, UC Irvine</td>
+    <td>Postdoctoral Fellow, University of California Irvine</td>
   </tr>
+  <tr>
+    <td>Emel Ficici</td>
+    <td>PhD (2010-2015)</td>
+    <td>Postdoctoral Fellow, NIH/NHLBI</td>
+  </tr>
+  <tr>
+    <td>Ahmet Mentes</td>
+    <td>PhD (2009-2013)</td>
+    <td>Postdoctoral Fellow, University of Pennsylvania</td>
+  </tr>
+  <tr>
+    <td>Nicholas K Preketes</td>
+    <td>PhD (2008-2013)<br> Jointly with Shaul Mukamel</td>
+    <td>Director, Commercial Strategy & Analytics, Amgen</td>
+  </tr>
+  
 </table> 
 
 </body>
