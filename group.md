@@ -210,12 +210,12 @@ Jeff Wereszczynski</p>
     <td>Senior Scientist at Pfizer</td>
   </tr>
   <tr>
-    <td>Prasanth P  Jose</td>
+    <td><a href="https://sites.google.com/site/prasanthpj/Home">Prasanth P  Jose</td>
     <td>Post Doc (2008-2010)</td>
     <td>Assistant Professor of Physics <br> Indian Institute of Technology, Mandi, India</td>
   </tr>
   <tr>
-    <td>Aaron T. Frank</td>
+    <td><a href="https://sites.lsa.umich.edu/frank-lab/">Aaron T. Frank</td>
     <td>PhD (2006-2011)</td>
     <td>Assistant Professor of Chemistry, University of Michigan, Ann Arbor</td>
   </tr>
@@ -225,7 +225,7 @@ Jeff Wereszczynski</p>
     <td>Postdoctoral Fellow, NHLBI</td>
   </tr>
   <tr>
-    <td>Jeff Wereszczynski</td>
+    <td><a href="http://mypages.iit.edu/~jwereszc/">Jeff Wereszczynski</td>
     <td>PhD (2004-2008)</td>
     <td>Associate Professor of Physics, Illinois Institute of Technology, Chicago</td>
   </tr>
