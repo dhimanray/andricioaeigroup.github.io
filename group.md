@@ -180,6 +180,16 @@ Jeff Wereszczynski</p>
     <td>Postdoctoral Fellow, NIH/NHLBI</td>
   </tr>
   <tr>
+    <td>Jason Deckman</td>
+    <td>Post Doc (2011-2014)</td>
+    <td>Sr. Engineer I, Software at Human Longevity, Inc</td>
+  </tr>
+  <tr>
+    <td>Gavin Bascom</td>
+    <td>PhD (2010-2014)</td>
+    <td>Independent Contractor at Bolt Threads</td>
+  </tr>
+  <tr>
     <td>Ahmet Mentes</td>
     <td>PhD (2009-2013)</td>
     <td>Postdoctoral Fellow, University of Pennsylvania</td>
