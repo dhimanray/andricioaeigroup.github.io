@@ -6,10 +6,10 @@ title: Andricioaei Group
 
 <div class="row">
  <div class="column">
-   <img src="/img/DNA-HG.jpg" style="width:50%">
+   <img src="/img/DNA-HG.jpg" style="width:40%">
  </div>
  <div class="column">
-   <img src="/img/gianmarc.jpeg" style="width:50%">
+   <img src="/img/gianmarc.jpeg" style="width:40%">
  </div>
 </div> 
 
