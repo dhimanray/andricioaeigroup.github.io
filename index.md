@@ -4,11 +4,11 @@ title: Andricioaei Group
 ---
 
 
-<div class="row">
- <div class="column">
+<div class="column">
+ <div class="row">
    <img src="/img/DNA-HG.jpg" style="width:40%">
  </div>
- <div class="column">
+ <div class="row">
    <img src="/img/gianmarc.jpeg" style="width:40%">
  </div>
 </div> 
