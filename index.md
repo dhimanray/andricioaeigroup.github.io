@@ -3,7 +3,7 @@ layout: page
 title: Andricioaei Group
 ---
 
-
+<img src="/img/DNA-HG.jpg" style="width:40%"><img src="/img/gianmarc.jpeg" style="width:40%">
 <div class="column">
  <div class="row">
    <img src="/img/DNA-HG.jpg" style="width:40%">
