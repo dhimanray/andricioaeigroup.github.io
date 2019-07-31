@@ -3,7 +3,15 @@ layout: page
 title: Andricioaei Group
 ---
 
-<img src="/img/DNA-HG.jpg"/> <img src="/img/gianmarc.jpeg"/>
+
+ <div class="row">
+  <div class="column">
+    <img src="/img/DNA-HG.jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/img/gianmarc.jpeg" style="width:100%">
+  </div>
+</div> 
 
 We are a research group interested in theoretical chemistry and computational molecular biophysics affiliated 
 with the [Department of Chemistry](https://www.chem.uci.edu/) in the [School of Physical Sciences](https://ps.uci.edu/) of the University of California, Irvine.
