@@ -4,13 +4,13 @@ title: Andricioaei Group
 ---
 
 
- <div class="row">
-  <div class="column">
-    <img src="/img/DNA-HG.jpg" style="width:50%">
-  </div>
-  <div class="column">
-    <img src="/img/gianmarc.jpeg" style="width:50%">
-  </div>
+<div class="row">
+ <div class="column">
+   <img src="/img/DNA-HG.jpg" style="width:50%">
+ </div>
+ <div class="column">
+   <img src="/img/gianmarc.jpeg" style="width:50%">
+ </div>
 </div> 
 
 We are a research group interested in theoretical chemistry and computational molecular biophysics affiliated 
