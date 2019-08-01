@@ -4,6 +4,8 @@ title: Research Topics
 ---
 
 ### Enhanced Sampling in Trajectory Space.
+<img src="/img/gian2a.jpeg" style="width:50%"><img src="/img/gianmarc.jpeg" style="width:50%">
+<img src="/img/gian2b.jpeg" style="width:50%"><img src="/img/gian3.jpeg" style="width:50%">
 Many important equilibrium and kinetic properties of chemical systems (including proteins and nucleic acids) can be cast in terms of paths in multi-dimensional spaces. Sampling and optimization algorithms for conformational space can be generalized and adapted to the spaces characterized by paths. There is fertile ground for theoretical and computational work on several categories of paths, from chemical-reactions to the sequence space of evolving proteins dynamics. Trajectory reweighting techniques, developed within the group, based on stochastic path integrals are particularly useful to treat both computer simulations and single-molecule experimental traces.
 
 ### Computer Simulations of Contractile Tails.
