@@ -113,9 +113,10 @@ html {
       <div class="container" style="width:100%">
       <img src="/img/Moises.jpg" alt="Moises" style="width:50%"><!--height="300" width="300">-->
         <h3>Moises Romero</h3>
-        <p>Research Interest: MD Simulations of contractile tails and microscopic friction. 
-        Enhanced sampling via directionally negative friction Langevin equation.</p>
+        <p>Research Interest: Elastic network models of contractile tails. MD Simulations of biological systems.
+        Development of enhanced sampling methods.</p>
         <p>moiseser@uci.edu</p>
+        <p><a href="https://www.linkedin.com/in/moises-romero-b76191189/">Linkedin</a></p>
       </div>
     </div>
   </div>
