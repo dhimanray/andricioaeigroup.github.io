@@ -197,6 +197,11 @@ html {
     <td>Assistant Professor of Physics, Indian Institute of Technology, Mandi, India</td>
   </tr>
   <tr>
+    <td><a href="https://sites.google.com/site/prasanthpj/Home">Eunae Kim</a></td>
+    <td>Post Doc (2008-2010)</td>
+    <td>Assistant Professor of Pharmacy, Chosun University, South Korea</td>
+  </tr>
+  <tr>
     <td><a href="https://sites.lsa.umich.edu/frank-lab/">Aaron T. Frank</a></td>
     <td>PhD (2006-2011)</td>
     <td>Assistant Professor of Chemistry, University of Michigan, Ann Arbor</td>
